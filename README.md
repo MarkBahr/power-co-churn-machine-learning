@@ -1,4 +1,4 @@
-# Data Science Project for PowerCo Customer Churn
+# PowerCo Customer Churn
 
 ### Does Price Sensitivity Influence PowerCo's Customer Churn?
 
